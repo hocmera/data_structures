@@ -1,3 +1,6 @@
+// Copyright (c) 2019 HocMera
+// Distributed under the GPL software license
+// Implementation of a generic circular queue
 
 template <class T>
 class CircularQueue 

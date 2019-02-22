@@ -1,5 +1,6 @@
-// CircularQueue.cpp : Defines the entry point for the console application.
-//
+// Copyright (c) 2019 HocMera
+// Distributed under the GPL software license
+// Example for using a generic circular queue
 
 #include "stdafx.h"
 #include "iostream"
